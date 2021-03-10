@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: About
 author: Chris Ashwood
 date: 2021-03-10
 category: Jekyll
